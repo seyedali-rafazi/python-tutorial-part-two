@@ -1,6 +1,4 @@
-# python-tutorial-part-two
-
-# What I've Learned from Python
+# What I've Learned from Python Part two
 
 This GitHub repository documents my learning journey in Python, focusing on key concepts and topics. Below, I'll outline what I've learned about various Python features.
 
@@ -39,5 +37,17 @@ A tuple is an immutable collection of ordered elements. Tuples are commonly used
 ## Unpacking Operators
 
 Python provides unpacking operators like `*` and `**` that allow you to extract elements from iterable objects or pass multiple arguments to functions using iterable unpacking.
+
+## Files and Paths
+
+Python allows you to work with files and directories using modules like `os` and `os.path`. You can create, read, write, and manipulate files and directories in a platform-independent way.
+
+## Randomness
+
+The `random` module in Python provides functions for generating random numbers, making it useful for tasks like simulations, games, and data shuffling.
+
+## Web Browser Interaction
+
+You can automate web browser interactions in Python using libraries like `selenium`. This allows you to perform tasks like web scraping, web testing, and more.
 
 These are some of the key concepts and topics I've learned about in Python. As my learning journey continues, I'll keep updating this repository with more insights and practical applications of these concepts.
